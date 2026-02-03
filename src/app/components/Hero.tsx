@@ -100,7 +100,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 1 }}
           >
             <a
-              href="https://www.linkedin.com/in/ayush-srivastava"
+              href="https://www.linkedin.com/in/ayushsri2/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 bg-white/10 backdrop-blur-sm rounded-full hover:bg-blue-500/30 transition-all hover:scale-110"
@@ -108,7 +108,7 @@ export function Hero() {
               <Linkedin size={28} />
             </a>
             <a
-              href="https://github.com/ayushsr0"
+              href="https://github.com/ayushsr1"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 bg-white/10 backdrop-blur-sm rounded-full hover:bg-purple-500/30 transition-all hover:scale-110"

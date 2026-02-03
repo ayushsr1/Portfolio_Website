@@ -27,13 +27,13 @@ export function Contact() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/ayush-srivastava",
+      href: "https://www.linkedin.com/in/ayushsri2/",
       color: "from-blue-600 to-blue-400",
     },
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com/ayushsr0",
+      href: "https://github.com/ayushsr1",
       color: "from-gray-700 to-gray-900",
     },
   ];
